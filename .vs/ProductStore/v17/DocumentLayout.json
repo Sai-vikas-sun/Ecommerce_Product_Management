@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Dotnet Projects\\ProductStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:controller\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\controller\\dto\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:controller\\dto\\addproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|d:\\dotnet projects\\productstore\\migrations\\20240613065143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A74C4A19-09C8-478C-8F85-7F34F7044BDA}|ProductStore.csproj|solutionrelative:migrations\\20240613065143_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:42:22.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddProductRequest.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Controller\\DTO\\AddProductRequest.cs",
+              "RelativeDocumentMoniker": "Controller\\DTO\\AddProductRequest.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Controller\\DTO\\AddProductRequest.cs",
+              "RelativeToolTip": "Controller\\DTO\\AddProductRequest.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:59:34.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Controller\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controller\\ProductController.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Controller\\ProductController.cs",
+              "RelativeToolTip": "Controller\\ProductController.cs",
+              "ViewState": "AQIAAIQAAAAAAAAAAAAAACkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:49.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:05:04.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240613065143_Initial.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Migrations\\20240613065143_Initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240613065143_Initial.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Migrations\\20240613065143_Initial.cs",
+              "RelativeToolTip": "Migrations\\20240613065143_Initial.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:51:43.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\DbContext.cs",
+              "RelativeDocumentMoniker": "DbContext.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\DbContext.cs",
+              "RelativeToolTip": "DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:36:31.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Dotnet Projects\\ProductStore\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Dotnet Projects\\ProductStore\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:05:28.784Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
